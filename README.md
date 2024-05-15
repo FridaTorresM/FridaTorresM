@@ -1,7 +1,8 @@
 ### ¡Hola! 👋 Acompáñame en este camino de la Tecnología 💻
 
+![Banner](/img1.png)
 
-***!Bienvenido!*** Te saluda Frida Torres, futura ingeniera en Tecnologías y Sistemas de Información 👩‍💻 con tan solo 20 años y todas las ganas de ser influyente en este mundo tan extraño de la tecnología.      
+ Te saluda Frida Torres, futura ingeniera en Tecnologías y Sistemas de Información 👩‍💻 con tan solo 20 años y todas las ganas de ser influyente en este mundo tan extraño de la tecnología.      
 <br>
  🚏 México, CDMX
   
