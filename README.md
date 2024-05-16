@@ -41,7 +41,7 @@ A través de mi viaje académico, me esfuerzo por no solo adquirir conocimientos
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Paqueteria](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 + Me puedes contactar a través del siguiente correo fridatorresm20@gmail.com
-+ Por aquí les dejo mi Linkendin (www.linkedin.com/in/frida-lizeth-torres-montenegro-1216a62ab)
++ Por aquí les dejo mi [Linkendin](www.linkedin.com/in/fridatorresm)
   <hr>
 
 <p align="center">✨✨<strong>El límite eres tú, no la tecnología</strong>✨✨</p>
