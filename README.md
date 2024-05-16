@@ -2,7 +2,7 @@
 
 ![Banner](/img1.png)
 
-¡Te saluda Frida Torres! Soy una apasionada estudiante de tecnologías y sistemas de información, ¡y futuro ingeniera en el campo! 👩‍💻 Con tan solo 20 años, estoy emocionada y llena de energía para adentrarme en este mundo tan fascinante con todas las ganas de ser influyente en este mundo tan extraño de la tecnología.       
+¡Te saluda Frida Torres! Soy una apasionada estudiante de tecnologías y sistemas de información, ¡y futura ingeniera en el campo! 👩‍💻 Con tan solo 20 años, estoy emocionada y llena de energía para adentrarme en este mundo tan fascinante con todas las ganas de ser influyente en este mundo tan extraño de la tecnología.       
 
 ## Acerca de mí
 
