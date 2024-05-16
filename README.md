@@ -1,17 +1,24 @@
-### ¡Hola! 👋 Acompáñame en este camino de la Tecnología 💻
+# ¡Hola! 👋 Acompáñame en este camino de la Tecnología 💻
 
 ![Banner](/img1.png)
 
- Te saluda Frida Torres, futura ingeniera en Tecnologías y Sistemas de Información 👩‍💻 con tan solo 20 años y todas las ganas de ser influyente en este mundo tan extraño de la tecnología.      
-<br>
- 🚏 México, CDMX
+¡Te saluda Frida Torres! Soy una apasionada estudiante de tecnologías y sistemas de información, ¡y futuro ingeniera en el campo! 👩‍💻 Con tan solo 20 años, estoy emocionada y llena de energía para adentrarme en este mundo tan fascinante con todas las ganas de ser influyente en este mundo tan extraño de la tecnología.       
+
+## Acerca de mí
+
+A través de mi viaje académico y profesional, me esfuerzo por no solo adquirir conocimientos técnicos sólidos, sino también desarrollar habilidades de liderazgo y comunicación que me permitan ser una influencia positiva en mi entorno y en la comunidad tecnológica en general.
+
+  🚏  México, CDMX
   
 👩‍💻 Programando desde hace 3 años y buscando más experiencia.
 
 👾 Front End y Ciencia de Datos futura pasión.
 
-### Lenguajes de Programación 
+🏫 Universidad del Valle de México
 
+
+
+### Lenguajes de Programación 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](javascript.org)&nbsp;
 [![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](css.org)&nbsp;
 [![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=ff5722&labelColor=0D1117)](html.org)&nbsp;
@@ -23,4 +30,8 @@
 )&nbsp;
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 
-***El límite eres tú*** ✨✨
++ Me puedes contactar a través del siguiente correo fridatorresm20@gmail.com
+  <hr>
+
+<p align="center">✨✨<strong>El límite eres tú, no la tecnología</strong>✨✨</p>
+
