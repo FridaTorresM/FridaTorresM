@@ -16,7 +16,14 @@ A través de mi viaje académico, me esfuerzo por no solo adquirir conocimientos
 
 🏫 Universidad del Valle de México
 
+### Certificaciones
+📄 CCNAv7: Introducción a Redes
 
+📄 Essential Google Cloud Infrastructure: Foundation 
+
+📄 Essential Google Cloud Infrastructure: Core Services
+
+📄 Google Cloud Fundamentals: Core Infrastructur
 
 ### Lenguajes de Programación 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](javascript.org)&nbsp;
@@ -30,7 +37,11 @@ A través de mi viaje académico, me esfuerzo por no solo adquirir conocimientos
 )&nbsp;
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 
+### Herramientas Extras 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Paqueteria](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 + Me puedes contactar a través del siguiente correo fridatorresm20@gmail.com
++ Por aquí les dejo mi Linkendin (www.linkedin.com/in/frida-lizeth-torres-montenegro-1216a62ab)
   <hr>
 
 <p align="center">✨✨<strong>El límite eres tú, no la tecnología</strong>✨✨</p>
